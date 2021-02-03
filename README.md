@@ -509,7 +509,7 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[code]](https://github.com/sjenni/temporal-ssl)
   - Simon Jenni, Givi Meishvili, Paolo Favaro. *ECCV 2020*
   
-- <s>Self-supervised Co-training for Video Representation Learning</s>
+- <del>Self-supervised Co-training for Video Representation Learning
   [[pdf]](https://arxiv.org/pdf/2010.09709)
   [[code]](https://github.com/TengdaHan/CoCLR)
   - <del>Tengda Han, Weidi Xie, and Andrew Zisserman. *NeurIPS 2020*
@@ -527,13 +527,13 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[pdf]](https://arxiv.org/pdf/2008.13426)
   - Jiangliu Wang, Jianbo Jiao, Linchao Bao, Shengfeng He, Wei Liu, and Yun-hui Liu
 
-- Spatiotemporal Contrastive Video Representation Learning
+- <del>Spatiotemporal Contrastive Video Representation Learning
   [[pdf]](https://arxiv.org/pdf/2008.03800)
-  - Rui Qian, Tianjian Meng, Boqing Gong, Ming-Hsuan Yang, Huisheng Wang, Serge Belongie, and Yin Cui
+  - <del>Rui Qian, Tianjian Meng, Boqing Gong, Ming-Hsuan Yang, Huisheng Wang, Serge Belongie, and Yin Cui
 
-- Self-Supervised Video Representation Using Pretext-Contrastive Learning
+- <del>Self-Supervised Video Representation Using Pretext-Contrastive Learning
   [[pdf]](https://arxiv.org/pdf/2010.15464)
-  - Li Tao, Xueting Wang, and Toshihiko Yamasaki
+  - <del>Li Tao, Xueting Wang, and Toshihiko Yamasaki
 
 - Unsupervised Video Representation Learning by Bidirectional Feature Prediction
   [[pdf]](https://arxiv.org/pdf/2011.06037)
