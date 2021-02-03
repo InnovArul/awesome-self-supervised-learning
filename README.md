@@ -509,10 +509,10 @@ FAIR Self-Supervision Benchmark [[repo]](https://github.com/facebookresearch/fai
   [[code]](https://github.com/sjenni/temporal-ssl)
   - Simon Jenni, Givi Meishvili, Paolo Favaro. *ECCV 2020*
   
-- Self-supervised Co-training for Video Representation Learning
+- <s>Self-supervised Co-training for Video Representation Learning</s>
   [[pdf]](https://arxiv.org/pdf/2010.09709)
   [[code]](https://github.com/TengdaHan/CoCLR)
-  - Tengda Han, Weidi Xie, and Andrew Zisserman. *NeurIPS 2020*
+  - <del>Tengda Han, Weidi Xie, and Andrew Zisserman. *NeurIPS 2020*
 
 - Cycle-Contrast for Self-Supervised Video Representation Learning
   [[pdf]](https://arxiv.org/pdf/2010.14810)
